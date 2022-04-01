@@ -1,5 +1,5 @@
 - 👋 Hello, my name is Kepha Owanga
-- 👀 I’m a fullstack developer.
+- 👀 I’m a software developer, QA Analyst and Analyst.
 - 🌱 I love coding using flutter and Javascript. Current frameworks and libraries Im using are Laravel and React
 - 💞️ I’m looking to collaborate with startups...
 - 📫 You can reach me via email at owangakepha@gmail.com 
