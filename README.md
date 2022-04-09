@@ -1,7 +1,6 @@
 - 👋 Hello, my name is Kepha Owanga
 - 👀 I’m a software developer and QA Analyst
-- 🌱 I love coding using flutter and Javascript. Current frameworks and libraries Im using are Laravel and React
-- 💞️ I’m looking to collaborate with startups...
+- 🌱 I love coding using PHP, flutter and Javascript. Current frameworks and libraries Im using are Laravel and React
 - 📫 You can reach me via email at owangakepha@gmail.com 
 
 <!---
